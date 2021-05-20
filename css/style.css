@@ -34,11 +34,11 @@ ul{
 .navigation{
      margin-left: auto;
 }
-.nav__ul{
+.nav__menu{
      display: flex;
      align-items: center;
 }
-.nav__li{
+.nav__item{
      padding: 24px;
 }
 .nav__link{
