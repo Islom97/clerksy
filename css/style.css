@@ -25,7 +25,7 @@ ul{
      top: 0;
      left: 0;
      right: 0;
-     box-shadow: 0 4px 10px 0 rgba(9, 9, 9, 0.3);
+     box-shadow: 0 4px 9px 0 rgba(9, 9, 9, 0.3);
 }
 .warpper{
      display: flex;
